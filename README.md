@@ -2,7 +2,7 @@
 
 ## Advanced Solution Features Developed Using Convergent Analytics ML Toolkit Framework:
 
-Model Training Navigator (MTN):
+**Model Training Navigator (MTN):**
 
 - Learning from history of the accuracy metrics resulting from model testing - and suggesting (using GAN, generative adversarial networks) hyperparameters for model training (at a given level of minimum expected accuracy):
 
@@ -18,7 +18,7 @@ Model Training Navigator (MTN):
 
 ## Solutions Developed Using Convergent Analytics ML Toolkit Framework:
 
-Healthcare AI:
+**Healthcare AI:**
 
 - No-Show Prevention
 
